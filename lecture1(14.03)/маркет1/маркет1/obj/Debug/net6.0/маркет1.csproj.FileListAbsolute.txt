@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\маркет1\маркет1\bin\Debug\net6.0\маркет1.exe
+C:\Users\user\source\repos\маркет1\маркет1\bin\Debug\net6.0\маркет1.deps.json
+C:\Users\user\source\repos\маркет1\маркет1\bin\Debug\net6.0\маркет1.runtimeconfig.json
+C:\Users\user\source\repos\маркет1\маркет1\bin\Debug\net6.0\маркет1.dll
+C:\Users\user\source\repos\маркет1\маркет1\bin\Debug\net6.0\маркет1.pdb
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\маркет1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\маркет1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\маркет1.AssemblyInfo.cs
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\маркет1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\маркет1.dll
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\refint\маркет1.dll
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\маркет1.pdb
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\маркет1.genruntimeconfig.cache
+C:\Users\user\source\repos\маркет1\маркет1\obj\Debug\net6.0\ref\маркет1.dll
