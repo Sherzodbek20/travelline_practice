@@ -1,0 +1,6 @@
+add hello привет
+add cat кошка
+translate hello
+translate cat
+reverse кошка
+all
