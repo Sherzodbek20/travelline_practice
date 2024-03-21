@@ -1,0 +1,6 @@
+привет : hello
+hello : привет
+School : школа 
+школа  : School
+кошка : cat
+cat : кошка
